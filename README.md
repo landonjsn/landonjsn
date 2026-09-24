@@ -25,8 +25,8 @@ Currently building hands-on experience in:
 - **Threat Intelligence:** MITRE ATT&CK, STIX/TAXII, IOC analysis, VirusTotal, Shodan, YARA  
 - **GRC & Consulting:** NIST CSF 2.0, Risk Assessment, Control Gap Analysis, IAM, Vulnerability Management  
 - **Security Operations:** Incident Response, Log Analysis, Network Monitoring, File Parsing  
-- **Security Tools:** Wireshark, Nessus, Wazuh, Suricata, tcpdump, VirusTotal, Shodan  
-- **SIEM:** Wazuh, Splunk (beginner)  
+- **Security Tools:** Wireshark, Nessus, Wazuh, tcpdump, VirusTotal, Shodan  
+- **SIEM:** Wazuh, Splunk 
 - **Programming:** Python, SQL, Java, HTML  
 - **Frameworks:** NIST CSF, MITRE ATT&CK, Cyber Kill Chain  
 - **Linux:** File permissions, Bash, User management, chmod 
