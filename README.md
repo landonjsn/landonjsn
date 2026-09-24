@@ -64,7 +64,6 @@ Relational database for event management using MySQL Workbench and ER modeling.
 ## 📈 What I'm Working On
 - Security+ Certification  
 - Cybersecurity Consulting Simulation (MIST 5770)
-- Building a home lab (Splunk, pfSense, Kali, Windows Server)  
 - Expanding my threat intel automation project  
 
 ---
