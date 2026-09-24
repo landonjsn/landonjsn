@@ -22,12 +22,14 @@ Currently building hands-on experience in:
 ---
 
 ## 🛡️ Cybersecurity Skills
-- **Threat Intelligence:** MITRE ATT&CK, STIX/TAXII, IOC analysis  
-- **GRC & Consulting:** NIST CSF 2.0, Risk Assessment, Control Gap Analysis, IAM  
-- **Malware Analysis:** YARA, PEStudio, Wireshark, FlareVM  
-- **Security Tools:** VirusTotal, Shodan, Nessus, Wazuh, Suricata, tcpdump  
-- **Programming:** Python, SQL, Java  
+- **Threat Intelligence:** MITRE ATT&CK, STIX/TAXII, IOC analysis, VirusTotal, Shodan, YARA  
+- **GRC & Consulting:** NIST CSF 2.0, Risk Assessment, Control Gap Analysis, IAM, Vulnerability Management  
+- **Security Operations:** Incident Response, Log Analysis, Network Monitoring, File Parsing  
+- **Security Tools:** Wireshark, Nessus, Wazuh, Suricata, tcpdump, VirusTotal, Shodan  
+- **SIEM:** Wazuh, Splunk (beginner)  
+- **Programming:** Python, SQL, Java, HTML  
 - **Frameworks:** NIST CSF, MITRE ATT&CK, Cyber Kill Chain  
+- **Linux:** File permissions, Bash, User management, chmod 
 
 ---
 
