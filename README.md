@@ -1,6 +1,6 @@
 # Hi, I'm Landon Johnson
 
-🎓 MIS @ University of Georgia — Information Security Emphasis
+🎓 MIS @ University of Georgia - Information Security Emphasis
 🔐 Security Analysis | GRC | Threat Intelligence
 📍 Athens, GA
 📫 Landon.Johnson1@uga.edu
