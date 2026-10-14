@@ -28,6 +28,10 @@ Hands-on labs from the Google Cybersecurity Certificate covering security audits
 🔸 **Cybersecurity Consulting Simulation**
 Weekly case assessments of simulated client environments against NIST CSF 2.0, with findings delivered to visiting professionals from Big 4 and Fortune 500 firms.
 
+🔸 **Home SIEM Lab** *(In Progress)*
+Building a home SIEM environment using Splunk to ingest and analyze logs, write detection rules, and document findings. Focused on developing hands-on detection engineering skills.
+➡️ Repo coming soon
+
 ## 🏅 Certifications
 
 - Google Cybersecurity Certificate — Aug 2026
