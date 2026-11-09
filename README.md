@@ -45,6 +45,7 @@ Hands-on labs from the Google Cybersecurity Certificate covering security audits
 
 - Google Cybersecurity Certificate (August 2026)
 - AI Fluency: Framework & Foundations, Anthropic (November 2026)
+- Claude Code in Action, Anthropic (November 2026)
 - Lean Six Sigma Yellow Belt (2025)
 - Competence in Zero Trust (CCZT), LinkedIn Learning
 
