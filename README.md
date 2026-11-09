@@ -34,14 +34,12 @@ Hands-on labs from the Google Cybersecurity Certificate covering security audits
 
 ## 🛡️ Skills
 
-- **GRC & Identity:** NIST CSF 2.0, User Access Reviews, Separation of Duties, Risk Assessment, Control Gap Analysis, Third-Party Risk, IAM & Access Control
-- **Process:** Process Mapping (BPMN), Lean Six Sigma, Agile/Scrum
-- **Security Operations:** Splunk (SPL, alerts, detections), Sysmon, Windows Event Logs, Log Analysis, Incident Response, Alert Triage
-- **Threat Intelligence:** MITRE ATT&CK, STIX/TAXII, VirusTotal
-- **AI:** Claude Skills, AI-assisted security workflows
-- **Data & Programming:** SQL, Excel, Python, Java, HTML
-- **Cloud:** AWS (Cloud Practitioner course)
-- **Linux:** Ubuntu, Bash, File Permissions, User Management
+- **GRC & Risk:** NIST CSF 2.0, Risk Assessment, Control Gap Analysis, Maturity Assessment, User Access Reviews, Separation of Duties, Third-Party Risk, AI Risk, HIPAA, SOC 2, PCI DSS, CPRA
+- **Security:** Alert Triage, Log Analysis, SIEM Detection (SPL), Incident Response, Threat Intelligence, MITRE ATT&CK, IAM & Access Control, Vulnerability Management
+- **Data & Analytics:** SQL, MySQL, Python, Excel, Database Design, ER Modeling, Data Validation, Reporting
+- **Business & Process:** Business Process Management, BPMN Process Modeling, Process Analysis & Redesign, Lean Six Sigma, Agile/Scrum, Project Management, Requirements Gathering
+- **Tools & Platforms:** Claude (Skills), Splunk, AWS, Linux (Ubuntu), Wireshark, tcpdump, VirusTotal, Wazuh, MySQL Workbench, Camunda, Microsoft Office
+- **Languages:** Python, SQL, Java, HTML
 
 ## 🏅 Certifications
 
