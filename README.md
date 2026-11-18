@@ -14,12 +14,6 @@ I'm an MIS student at UGA looking for an entry-level role in GRC, IAM, or IT ris
 🔸 **[User Access Review: Redbud Resale Co.](https://github.com/landonjsn/user-access-review)**
 Ran a six-month access review for a fictional retailer, comparing HR, directory, and POS exports against company policy. Found 11 issues, including a terminated employee whose account was used after she left and a separation of duties conflict over payments. Traced them to three broken processes, redesigned offboarding in BPMN, and automated the review with a Python script and a Claude skill.
 
-🔸 **[Home SIEM Lab: Credential Theft Detection](https://github.com/landonjsn/home-siem-lab)**
-Investigated a recorded credential theft attack in Splunk using 915 Windows Security and Sysmon events. Separated attacker activity from routine Windows noise, mapped it to MITRE ATT&CK T1003.002, and built a tested detection that catches every attack event with zero false positives.
-
-🔸 **[SOC Alert Triage Skill for Claude](https://github.com/landonjsn/soc-triage-skill)**
-A Claude AI skill that turns raw security logs into a Tier 1 SOC triage report with a timeline, evidence, noise ruled out, ATT&CK mapping, and an escalate or close decision. Testing it against my own lab data showed my original alert wasn't catching anything, which led to the corrected detection.
-
 🔸 **PwC Case Study: Cybersecurity Maturity Assessment (UGA GRIPS Program)**
 Rated a simulated $1B smart-home company's cybersecurity maturity across 45 NIST CSF 2.0 subcategories, interviewed PwC professionals role-playing the client's IAM, network, SOC, BC/DR, and GRC teams to find control gaps, and presented a gap analysis and prioritized remediation roadmap to PwC leadership.
 
@@ -32,8 +26,14 @@ On a team, analyzed how Russia's APT28 (Forest Blizzard) hijacked thousands of o
 🔸 **Database Projects: [Music Events DB](https://github.com/landonjsn/Group-B3) and [Retail Data Cleaning](https://github.com/landonjsn/GroupB3-Project2)**
 On a 5-person team, cleaned and validated a retailer's Excel data, resolving 14 data-quality issues across 260 rows before loading it into MySQL. Designed a 13-table MySQL database with junction tables for many-to-many relationships, and wrote 10 SQL stored procedures using joins, subqueries, and aggregations.
 
+🔸 **[Home SIEM Lab: Credential Theft Detection](https://github.com/landonjsn/home-siem-lab)**
+Investigated a recorded credential theft attack in Splunk using 915 Windows Security and Sysmon events. Separated attacker activity from routine Windows noise, mapped it to MITRE ATT&CK T1003.002, and built a tested detection that catches every attack event with zero false positives.
+
+🔸 **[SOC Alert Triage Skill for Claude](https://github.com/landonjsn/soc-triage-skill)**
+A Claude AI skill that turns raw security logs into a Tier 1 SOC triage report with a timeline, evidence, noise ruled out, ATT&CK mapping, and an escalate or close decision. Testing it against my own lab data showed my original alert wasn't catching anything, which led to the corrected detection.
+
 🔸 **[Cybersecurity Portfolio](https://github.com/landonjsn/Cybersecurity-Portfolio)**
-Hands-on labs from the Google Cybersecurity Certificate covering security audits, network incident analysis, Linux file permissions, SQL filtering, vulnerability assessments, and Python automation.
+Labs from the Google Cybersecurity Certificate, led by a controls and compliance audit of a small business and a vulnerability and risk assessment for an e-commerce company. Also includes incident documentation, network incident analysis, SQL filtering, Linux file permissions, and a Python automation script.
 
 ## 🛡️ Skills
 
