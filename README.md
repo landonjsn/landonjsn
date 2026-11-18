@@ -53,7 +53,7 @@ Labs from the Google Cybersecurity Certificate, led by a controls and compliance
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [linkedin.com/in/landon-johnson-711990234](https://linkedin.com/in/landon-johnson-711990234)
+- LinkedIn: [linkedin.com/in/landonjsn](https://www.linkedin.com/in/landonjsn)
 - Email: landonjsn@outlook.com
 
 Thanks for visiting my GitHub!
